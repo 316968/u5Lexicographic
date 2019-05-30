@@ -1,4 +1,8 @@
-﻿using System;
+/*quinn parker-joyes
+may 30 219
+ics4u
+lexicographic. shows millionth combination of 0 1 2 3 4 5 6 7 8 9*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
